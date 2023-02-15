@@ -1,0 +1,22 @@
+{
+  "name": "simple-node-emailer",
+  "version": "1.0.0",
+  "description": "Emails through NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatPaple/node-emailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThatPaple/node-emailer/issues"
+  },
+  "homepage": "https://github.com/ThatPaple/node-emailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.1"
+  }
+}
